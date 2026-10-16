@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Uptime-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Uptime-Monitoring?style=for-the-badge&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Uptime-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Uptime-Monitoring?style=for-the-badge&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Uptime-Monitoring/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Uptime-Monitoring?style=for-the-badge&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Uptime-Monitoring/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Uptime-Monitoring/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /></a>
@@ -67,99 +67,99 @@ The table below catalogs leading commercial and hosted uptime monitoring vendors
 
 ## 🛠️ Open-Source GitHub Projects
 
-Explore the finest self-hosted, open-source uptime monitors and status page engines. **Sorted in descending order by GitHub stars**:
+Explore the finest self-hosted, open-source uptime monitors and status page engines. **Sorted in descending order by GitHub_Stars**:
 
-### 1. [Uptime Kuma](https://github.com/louislam/uptime-kuma) [![GitHub stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)
+### 1. [Uptime Kuma](https://github.com/louislam/uptime-kuma) [![GitHub_Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)
 - **Primary Stack**: Node.js, Vue 3, SQLite
 - **License**: MIT
 - **Key Features**: The undisputed standard in self-hosted uptime monitoring. Delivers an elegant, reactive single-page interface with HTTP(s), TCP, Ping, DNS, Push/Heartbeat, Docker container, and gRPC monitors. Features 90+ built-in notification channels (Telegram, Discord, Slack, PagerDuty, Webhooks), multi-language localization, customizable public status pages with custom domains, certificate expiry notifications, and 2FA authentication.
 
-### 2. [Netdata](https://github.com/netdata/netdata) [![GitHub stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers)
+### 2. [Netdata](https://github.com/netdata/netdata) [![GitHub_Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers)
 - **Primary Stack**: C, Go, Python
 - **License**: GPL-3.0
 - **Key Features**: High-performance, real-time infrastructure health and uptime monitor. Captures per-second system metrics, container states, web server response latencies, and network packet health with near-zero CPU overhead. Features automated anomaly detection, pre-configured alert thresholds, and distributed edge monitoring nodes.
 
-### 3. [Upptime](https://github.com/upptime/upptime) [![GitHub stars](https://img.shields.io/github/stars/upptime/upptime?style=social&color=white)](https://github.com/upptime/upptime/stargazers)
+### 3. [Upptime](https://github.com/upptime/upptime) [![GitHub_Stars](https://img.shields.io/github/stars/upptime/upptime?style=social&color=white)](https://github.com/upptime/upptime/stargazers)
 - **Primary Stack**: GitHub Actions, TypeScript, Svelte
 - **License**: MIT
 - **Key Features**: True zero-maintenance serverless uptime monitor powered entirely by GitHub. Uses scheduled GitHub Actions workflows to probe endpoints, tracks downtime incidents via GitHub Issues, and automatically deploys a pristine, responsive status page to GitHub Pages with automatic response time graph plotting.
 
-### 4. [Gatus](https://github.com/TwiN/gatus) [![GitHub stars](https://img.shields.io/github/stars/TwiN/gatus?style=social&color=white)](https://github.com/TwiN/gatus/stargazers)
+### 4. [Gatus](https://github.com/TwiN/gatus) [![GitHub_Stars](https://img.shields.io/github/stars/TwiN/gatus?style=social&color=white)](https://github.com/TwiN/gatus/stargazers)
 - **Primary Stack**: Go
 - **License**: Apache-2.0
 - **Key Features**: Developer-first service health dashboard configured via clean YAML definitions. Evaluates endpoint health using expressive assertion rules (status code, body content, response latency, certificate validity). Supports HTTP, ICMP ping, TCP, and DNS checks with alerting dispatched to Slack, PagerDuty, Discord, and Twilio.
 
-### 5. [Checkmate](https://github.com/bluewave-labs/checkmate) [![GitHub stars](https://img.shields.io/github/stars/bluewave-labs/checkmate?style=social&color=white)](https://github.com/bluewave-labs/checkmate/stargazers)
+### 5. [Checkmate](https://github.com/bluewave-labs/checkmate) [![GitHub_Stars](https://img.shields.io/github/stars/bluewave-labs/checkmate?style=social&color=white)](https://github.com/bluewave-labs/checkmate/stargazers)
 - **Primary Stack**: TypeScript, React, Docker
 - **License**: AGPL-3.0
 - **Key Features**: Comprehensive self-hosted server and uptime monitoring suite. Combines continuous endpoint probing (HTTP/S, Ping, TCP Port, Game servers, gRPC, WebSocket) with Google Lighthouse page speed metrics, server hardware telemetry (CPU, RAM, Disk), incident escalation workflows, and multi-channel alerting.
 
-### 6. [Healthchecks](https://github.com/healthchecks/healthchecks) [![GitHub stars](https://img.shields.io/github/stars/healthchecks/healthchecks?style=social&color=white)](https://github.com/healthchecks/healthchecks/stargazers)
+### 6. [Healthchecks](https://github.com/healthchecks/healthchecks) [![GitHub_Stars](https://img.shields.io/github/stars/healthchecks/healthchecks?style=social&color=white)](https://github.com/healthchecks/healthchecks/stargazers)
 - **Primary Stack**: Python, Django, PostgreSQL
 - **License**: BSD-3-Clause
 - **Key Features**: The standard for cron job and heartbeat monitoring ("dead man's snitch"). Microservices or cron scripts ping Healthchecks over HTTP at regular intervals; if a ping fails to arrive within the configured grace period, immediate alerts are triggered across Telegram, Discord, Matrix, email, or SMS.
 
-### 7. [OpenStatus](https://github.com/openstatusHQ/openstatus) [![GitHub stars](https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social&color=white)](https://github.com/openstatusHQ/openstatus/stargazers)
+### 7. [OpenStatus](https://github.com/openstatusHQ/openstatus) [![GitHub_Stars](https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social&color=white)](https://github.com/openstatusHQ/openstatus/stargazers)
 - **Primary Stack**: Next.js, TypeScript, Tailwind CSS, Tinybird
 - **License**: MIT
 - **Key Features**: Modern open-source synthetic monitoring platform and status page engine. Features global multi-region probing, latency percentile breakdowns, Monitoring-as-Code via YAML, automated incident reporting, and blazing-fast public status pages built with modern Web standards.
 
-### 8. [OneUptime](https://github.com/OneUptime/oneuptime) [![GitHub stars](https://img.shields.io/github/stars/OneUptime/oneuptime?style=social&color=white)](https://github.com/OneUptime/oneuptime/stargazers)
+### 8. [OneUptime](https://github.com/OneUptime/oneuptime) [![GitHub_Stars](https://img.shields.io/github/stars/OneUptime/oneuptime?style=social&color=white)](https://github.com/OneUptime/oneuptime/stargazers)
 - **Primary Stack**: TypeScript, Node.js, Docker, Kubernetes Helm
 - **License**: Apache-2.0
 - **Key Features**: Complete open-source observability suite designed as an all-in-one replacement for Pingdom, PagerDuty, StatusPage.io, and Datadog. Integrates uptime blackbox probing, public status pages, on-call schedules, incident management, APM telemetry, distributed logs, and automated incident response runbooks.
 
-### 9. [Prometheus Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) [![GitHub stars](https://img.shields.io/github/stars/prometheus/blackbox_exporter?style=social&color=white)](https://github.com/prometheus/blackbox_exporter/stargazers)
+### 9. [Prometheus Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) [![GitHub_Stars](https://img.shields.io/github/stars/prometheus/blackbox_exporter?style=social&color=white)](https://github.com/prometheus/blackbox_exporter/stargazers)
 - **Primary Stack**: Go
 - **License**: Apache-2.0
 - **Key Features**: The cloud-native standard for blackbox endpoint probing within Prometheus ecosystems. Probes endpoints over HTTP, HTTPS, DNS, TCP, and ICMP, exposing rich Prometheus metric timeseries for response durations, TLS cert expirations, status codes, and phase timings.
 
-### 10. [Kener](https://github.com/rajnandan1/kener) [![GitHub stars](https://img.shields.io/github/stars/rajnandan1/kener?style=social&color=white)](https://github.com/rajnandan1/kener/stargazers)
+### 10. [Kener](https://github.com/rajnandan1/kener) [![GitHub_Stars](https://img.shields.io/github/stars/rajnandan1/kener?style=social&color=white)](https://github.com/rajnandan1/kener/stargazers)
 - **Primary Stack**: Node.js, SvelteKit, Tailwind CSS
 - **License**: MIT
 - **Key Features**: Sleek, modern status page with integrated uptime monitoring and incident management. Built on SvelteKit for maximum performance, supports automated health checks, incident timelines, badge generation, custom branding, and lightweight containerized deployment.
 
-### 11. [Monitoror](https://github.com/monitoror/monitoror) [![GitHub stars](https://img.shields.io/github/stars/monitoror/monitoror?style=social&color=white)](https://github.com/monitoror/monitoror/stargazers)
+### 11. [Monitoror](https://github.com/monitoror/monitoror) [![GitHub_Stars](https://img.shields.io/github/stars/monitoror/monitoror?style=social&color=white)](https://github.com/monitoror/monitoror/stargazers)
 - **Primary Stack**: Go, Vue.js
 - **License**: MIT
 - **Key Features**: Wallboard monitoring tool crafted specifically for office monitors and NOC command centers. Consolidates HTTP status checks, CI/CD pipeline states (GitHub Actions, GitLab CI, Travis), and infrastructure health tiles into a live auto-refreshing grid.
 
-### 12. [cState](https://github.com/cstate/cstate) [![GitHub stars](https://img.shields.io/github/stars/cstate/cstate?style=social&color=white)](https://github.com/cstate/cstate/stargazers)
+### 12. [cState](https://github.com/cstate/cstate) [![GitHub_Stars](https://img.shields.io/github/stars/cstate/cstate?style=social&color=white)](https://github.com/cstate/cstate/stargazers)
 - **Primary Stack**: Hugo, HTML/CSS, Vanilla JS
 - **License**: MIT
 - **Key Features**: Hyper-fast, static status page generator powered by Hugo. Generates pure HTML/CSS without bulky frameworks, offering zero database dependencies, CDN hosting compatibility (Cloudflare Pages, Netlify), and clean incident logging.
 
-### 13. [PHP Server Monitor](https://github.com/phpservermon/phpservermon) [![GitHub stars](https://img.shields.io/github/stars/phpservermon/phpservermon?style=social&color=white)](https://github.com/phpservermon/phpservermon/stargazers)
+### 13. [PHP Server Monitor](https://github.com/phpservermon/phpservermon) [![GitHub_Stars](https://img.shields.io/github/stars/phpservermon/phpservermon?style=social&color=white)](https://github.com/phpservermon/phpservermon/stargazers)
 - **Primary Stack**: PHP, MySQL
 - **License**: GPL-3.0
 - **Key Features**: Classic open-source web-based monitoring tool that checks websites and network sockets on regular cron intervals. Features email/SMS notifications, user management permissions, and latency history charts.
 
-### 14. [Statping-ng](https://github.com/statping-ng/statping-ng) [![GitHub stars](https://img.shields.io/github/stars/statping-ng/statping-ng?style=social&color=white)](https://github.com/statping-ng/statping-ng/stargazers)
+### 14. [Statping-ng](https://github.com/statping-ng/statping-ng) [![GitHub_Stars](https://img.shields.io/github/stars/statping-ng/statping-ng?style=social&color=white)](https://github.com/statping-ng/statping-ng/stargazers)
 - **Primary Stack**: Go, Vue.js, SQLite/MySQL/PostgreSQL
 - **License**: GPL-3.0
 - **Key Features**: Community-maintained successor to Statping. Offers an intuitive web dashboard, status page generation, HTTP and TCP service checks, response time graphing, and notifications across Discord, Slack, and Telegram.
 
-### 15. [Peekaping](https://github.com/0xfurai/peekaping) [![GitHub stars](https://img.shields.io/github/stars/0xfurai/peekaping?style=social&color=white)](https://github.com/0xfurai/peekaping/stargazers)
+### 15. [Peekaping](https://github.com/0xfurai/peekaping) [![GitHub_Stars](https://img.shields.io/github/stars/0xfurai/peekaping?style=social&color=white)](https://github.com/0xfurai/peekaping/stargazers)
 - **Primary Stack**: Go, SQLite/PostgreSQL
 - **License**: MIT
 - **Key Features**: Modern API-first Uptime Kuma alternative engineered in Go. Features strict typing, lightweight resource usage, support for HTTP, TCP, Ping, DNS, Docker, gRPC, and database monitors (Postgres, MySQL, Redis, MongoDB, Kafka), plus 22+ alerting integrations and SVG badge generation.
 
-### 16. [Laravel Uptime Monitor](https://github.com/spatie/laravel-uptime-monitor) [![GitHub stars](https://img.shields.io/github/stars/spatie/laravel-uptime-monitor?style=social&color=white)](https://github.com/spatie/laravel-uptime-monitor/stargazers)
+### 16. [Laravel Uptime Monitor](https://github.com/spatie/laravel-uptime-monitor) [![GitHub_Stars](https://img.shields.io/github/stars/spatie/laravel-uptime-monitor?style=social&color=white)](https://github.com/spatie/laravel-uptime-monitor/stargazers)
 - **Primary Stack**: PHP, Laravel
 - **License**: MIT
 - **Key Features**: Powerful package from Spatie that adds seamless uptime probing and SSL certificate validation directly inside Laravel applications. Fires customizable events when endpoints fail or certificates approach expiration.
 
-### 17. [Upright](https://github.com/basecamp/upright) [![GitHub stars](https://img.shields.io/github/stars/basecamp/upright?style=social&color=white)](https://github.com/basecamp/upright/stargazers)
+### 17. [Upright](https://github.com/basecamp/upright) [![GitHub_Stars](https://img.shields.io/github/stars/basecamp/upright?style=social&color=white)](https://github.com/basecamp/upright/stargazers)
 - **Primary Stack**: Ruby on Rails, Playwright, Kamal
 - **License**: MIT
 - **Key Features**: 37signals' open-source synthetic monitoring engine powering Basecamp and HEY. Executes Playwright browser probes with automated video capture on test failures, HTTP probes, and MTR traceroutes across geographically distributed low-cost VPS instances.
 
-### 18. [Kuvasz](https://github.com/kuvasz-uptime/kuvasz) [![GitHub stars](https://img.shields.io/github/stars/kuvasz-uptime/kuvasz?style=social&color=white)](https://github.com/kuvasz-uptime/kuvasz/stargazers)
+### 18. [Kuvasz](https://github.com/kuvasz-uptime/kuvasz) [![GitHub_Stars](https://img.shields.io/github/stars/kuvasz-uptime/kuvasz?style=social&color=white)](https://github.com/kuvasz-uptime/kuvasz/stargazers)
 - **Primary Stack**: Kotlin, Micronaut
 - **License**: Apache-2.0
 - **Key Features**: High-throughput uptime and SSL monitoring microservice. Features HTTP(S), heartbeat, Ping, TCP, and DNS checks with record-change detection, Prometheus metrics export, REST API, Home Assistant integrations, and Model Context Protocol (MCP) support for AI agents.
 
-### 19. [Asura](https://github.com/y0f/Asura) [![GitHub stars](https://img.shields.io/github/stars/y0f/Asura?style=social&color=white)](https://github.com/y0f/Asura/stargazers)
+### 19. [Asura](https://github.com/y0f/Asura) [![GitHub_Stars](https://img.shields.io/github/stars/y0f/Asura?style=social&color=white)](https://github.com/y0f/Asura/stargazers)
 - **Primary Stack**: Go, SQLite
 - **License**: AGPL-3.0
 - **Key Features**: Ultra-lightweight single-binary uptime monitor running comfortably on ~20MB RAM. Features 19 monitor types, statistical baseline anomaly detection, multi-step HTTP transaction chains, 90-day SLA status bars, and AES-256-GCM data encryption at rest.
@@ -185,7 +185,7 @@ Contributions from the developer community are warmly welcomed! To suggest a new
 1. 🍴 **Fork the repository** to your GitHub account.
 2. 🌿 **Create a descriptive feature branch**: `git checkout -b add-my-tool`.
 3. ✍️ **Update `README.md`**: Follow the established format, ensuring factual descriptions, valid license declarations, and accurate links.
-4. 🧪 **Verify link integrity**: Ensure all URLs and star badges resolve properly.
+4. 🧪 **Verify link integrity**: Ensure all URLs and Stars_Badges resolve properly.
 5. 🚀 **Submit a Pull Request** with a brief summary of why the tool belongs in this curated collection.
 
 ---
@@ -212,3 +212,12 @@ If this repository has saved you time or aided your infrastructure decisions:
 
 - **Disclaimer**: This list is independently curated by the open-source community for educational and technical reference. Mentions do not imply commercial endorsement. Monitoring tools must only be deployed against systems and domains that you own or have explicit authorization to probe.
 - **License**: Released under the [MIT License](LICENSE). Built with dedication for DevOps, SREs, and Platform Engineers worldwide.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Uptime-Monitoring&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Uptime-Monitoring_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Uptime-Monitoring_growth.svg">
+  </picture>
+</a>
